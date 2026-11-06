@@ -49,6 +49,8 @@ c) Title / Experience Trajectory Gaps \- For each gap, specify how to bridge it 
 
 The AI coach helped me understand my level of qualification and what gaps I face. It highlighted my IT support experience and baseline qualifications that make me a qualified candidate. Additionally, it highlighted my gaps, and what exact skills are missing from my resume. 
 
+![Career guidance example](screenshots/career-guidance.png)
+
 ## Example 2: Mock Interview
 
 ### My prompt
@@ -58,6 +60,8 @@ The AI coach helped me understand my level of qualification and what gaps I face
 ### What I learned
 
 The mock interview portion highlighted many of my gaps when discussing networking related topics. It highlighted my lack of true networking experience, which is increasingly valuable as now I understand what to focus on in the future.
+
+![Mock interview example](screenshots/mock-interview.png)
 
 ## Example 3: Career Action Plan
 
@@ -72,6 +76,8 @@ The mock interview portion highlighted many of my gaps when discussing networkin
 ### My next steps
 
 The AI coach assistant aided me in creating the next steps for developing my technical skills in areas closely related to system administrator skills. It highlights concepts and skills such as VLANs, switches, firewalls, VPNS, etc.
+
+![Career plan example](screenshots/career-plan.png)
 
 ## 5\. Testing and Improving My Assistant
 
